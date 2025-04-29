@@ -1,0 +1,9 @@
+<!--suppress PluginXmlValidity -->
+<idea-plugin>
+    <actions>
+        <action id="ExampleAction"
+                class="org.example.classpath.issue.ExampleAction"
+                text="Example Action"/>
+
+    </actions>
+</idea-plugin>
